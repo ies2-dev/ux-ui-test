@@ -1,4 +1,4 @@
-# Case UX/UI Desing
+# Case UX/UI Design
 
 ## Cliente
 
